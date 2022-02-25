@@ -1,3 +1,5 @@
+**This repository is fully deprecated. It has been merged with [the cStock codebase](https://github.com/dimagi/logistics).**
+
 This is a generic scheduler for django. It offers a cron-inspired interface
 to calling arbitrary functions in python. It was inspired and bulit atop
 the rapidsms scheduler module, but has been (mostly) decoupled from 
